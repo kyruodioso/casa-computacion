@@ -1,0 +1,15 @@
+/home/kyru/Escritorio/cursoCsharp/casa-computacion/bin/Debug/net6.0/casa-computacion
+/home/kyru/Escritorio/cursoCsharp/casa-computacion/bin/Debug/net6.0/casa-computacion.deps.json
+/home/kyru/Escritorio/cursoCsharp/casa-computacion/bin/Debug/net6.0/casa-computacion.runtimeconfig.json
+/home/kyru/Escritorio/cursoCsharp/casa-computacion/bin/Debug/net6.0/casa-computacion.dll
+/home/kyru/Escritorio/cursoCsharp/casa-computacion/bin/Debug/net6.0/casa-computacion.pdb
+/home/kyru/Escritorio/cursoCsharp/casa-computacion/obj/Debug/net6.0/casa-computacion.csproj.AssemblyReference.cache
+/home/kyru/Escritorio/cursoCsharp/casa-computacion/obj/Debug/net6.0/casa-computacion.GeneratedMSBuildEditorConfig.editorconfig
+/home/kyru/Escritorio/cursoCsharp/casa-computacion/obj/Debug/net6.0/casa-computacion.AssemblyInfoInputs.cache
+/home/kyru/Escritorio/cursoCsharp/casa-computacion/obj/Debug/net6.0/casa-computacion.AssemblyInfo.cs
+/home/kyru/Escritorio/cursoCsharp/casa-computacion/obj/Debug/net6.0/casa-computacion.csproj.CoreCompileInputs.cache
+/home/kyru/Escritorio/cursoCsharp/casa-computacion/obj/Debug/net6.0/casa-computacion.dll
+/home/kyru/Escritorio/cursoCsharp/casa-computacion/obj/Debug/net6.0/refint/casa-computacion.dll
+/home/kyru/Escritorio/cursoCsharp/casa-computacion/obj/Debug/net6.0/casa-computacion.pdb
+/home/kyru/Escritorio/cursoCsharp/casa-computacion/obj/Debug/net6.0/casa-computacion.genruntimeconfig.cache
+/home/kyru/Escritorio/cursoCsharp/casa-computacion/obj/Debug/net6.0/ref/casa-computacion.dll
